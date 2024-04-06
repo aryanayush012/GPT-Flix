@@ -1,6 +1,7 @@
 {
   "name": "gpt-flix",
   "version": "0.1.0",
+  "homepage": "https://aryanayush012.github.io/GPT-Flix",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.2",
